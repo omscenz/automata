@@ -1,0 +1,25 @@
+casos validos: 
+x = 25;
+nombre = "Juan";
+total = valor1;
+_privateVar = 100;
+var2 = true;
+resultado = numero1;
+salario = 1500.50;
+mensaje = "Hola Mundo";
+contador = valor_inicial;
+_x = 0;
+variable123 = "test";
+
+casos invalidos: 
+1x = 25; 	
+nombre = @juan; 	
+total 25; 	
+x = ; 	
+= 25; 	
+x == 25; 	
+x = "texto 
+variable-name = 10; 
+var@iable = 5; 	
+x = 	
+x = 25 	
